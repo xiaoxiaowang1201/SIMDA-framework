@@ -1,0 +1,46 @@
+###### Lipid: POP5
+###### Lipid Atoms: None
+###### Cutoffs: [0.5 0.8]
+###### nprot: 1
+###### Trajectories:
+  down_all.xtc
+###### Coordinates:
+  down.pdb
+
+########## POP5 interactions in 
+########## down_all.xtc 
+10 residues that showed longest average interaction durations (us):
+ 89ARG   --  7.698  
+ 93LYS   --  7.330  
+ 36ARG   --  5.742  
+ 93LYS   --  4.251  
+ 36VAL   --  3.020  
+ 31TYR   --  2.923  
+ 93LYS   --  2.699  
+ 89ARG   --  2.693  
+ 31ARG   --  2.633  
+ 89ARG   --  2.483  
+10 residues that showed highest lipid occupancy (100%):
+ 89ARG   --  94.19  
+ 92ARG   --  85.20  
+ 80LYS   --  76.35  
+ 85TRP   --  72.08  
+ 92ARG   --  71.81  
+ 10PHE   --  66.78  
+ 89ARG   --  66.17  
+  6ARG   --  62.63  
+ 17TRP   --  62.03  
+ 31ARG   --  60.02  
+10 residues that have the largest number of surrounding lipids (count):
+ 89ARG   --   1.31  
+ 10PHE   --   1.21  
+  6ARG   --   1.15  
+  2ARG   --   1.15  
+ 80LYS   --   1.15  
+ 10PHE   --   1.14  
+ 92ARG   --   1.13  
+ 32LYS   --   1.13  
+ 89ARG   --   1.13  
+ 92ARG   --   1.12  
+
+
