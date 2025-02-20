@@ -1,0 +1,535 @@
+REMARK   1 File created by GaussView 6.0.16
+ATOM      1  CA  ARG X 116      37.460  80.610  66.150                       C
+ATOM      2  HA  ARG X 116      38.530  80.530  66.230                       H
+ATOM      3  CB  ARG X 116      37.050  79.190  65.570                       C
+ATOM      4  HB1 ARG X 116      37.440  79.120  64.530                       H
+ATOM      5  HB2 ARG X 116      35.950  79.060  65.690                       H
+ATOM      6  CG  ARG X 116      37.760  77.990  66.220                       C
+ATOM      7  HG1 ARG X 116      37.370  77.830  67.250                       H
+ATOM      8  HG2 ARG X 116      38.820  78.280  66.380                       H
+ATOM      9  CD  ARG X 116      37.520  76.640  65.490                       C
+ATOM     10  HD1 ARG X 116      36.460  76.650  65.150                       H
+ATOM     11  HD2 ARG X 116      37.730  75.830  66.210                       H
+ATOM     12  NE  ARG X 116      38.490  76.620  64.380                       N
+ATOM     13  HE  ARG X 116      39.250  77.270  64.410                       H
+ATOM     14  CZ  ARG X 116      38.770  75.500  63.670                       C
+ATOM     15  NH1 ARG X 116      38.000  74.500  63.770                       N
+ATOM     16 HH11 ARG X 116      38.430  73.600  63.660                       H
+ATOM     17 HH12 ARG X 116      37.420  74.560  64.580                       H
+ATOM     18  NH2 ARG X 116      39.730  75.540  62.750                       N
+ATOM     19 HH21 ARG X 116      40.250  76.390  62.770                       H
+ATOM     20 HH22 ARG X 116      39.820  74.770  62.120                       H
+ATOM     21  O   ARG X 116      36.240  81.490  64.410                       O
+ATOM     22  CA  ARG X 181      28.690  73.120  61.940                       C
+ATOM     23  HA  ARG X 181      28.700  73.620  60.980                       H
+ATOM     24  CB  ARG X 181      30.220  72.870  62.360                       C
+ATOM     25  HB1 ARG X 181      30.360  72.500  63.390                       H
+ATOM     26  HB2 ARG X 181      30.630  72.040  61.740                       H
+ATOM     27  CG  ARG X 181      31.070  74.100  61.940                       C
+ATOM     28  HG1 ARG X 181      30.770  74.920  62.630                       H
+ATOM     29  HG2 ARG X 181      30.680  74.400  60.940                       H
+ATOM     30  CD  ARG X 181      32.590  73.800  61.810                       C
+ATOM     31  HD1 ARG X 181      32.750  73.100  60.970                       H
+ATOM     32  HD2 ARG X 181      33.210  74.690  61.590                       H
+ATOM     33  NE  ARG X 181      33.080  73.170  63.100                       N
+ATOM     34  HE  ARG X 181      32.560  73.420  63.910                       H
+ATOM     35  CZ  ARG X 181      34.250  72.680  63.320                       C
+ATOM     36  NH1 ARG X 181      34.570  72.070  64.470                       N
+ATOM     37 HH11 ARG X 181      35.490  71.690  64.400                       H
+ATOM     38 HH12 ARG X 181      33.900  71.890  65.190                       H
+ATOM     39  NH2 ARG X 181      35.280  72.800  62.470                       N
+ATOM     40 HH21 ARG X 181      36.160  72.520  62.840                       H
+ATOM     41 HH22 ARG X 181      35.120  73.190  61.560                       H
+ATOM     42  O   ARG X 181      27.190  71.430  62.790                       O
+ATOM     43  CA  ARG X 192      30.220  65.950  71.040                       C
+ATOM     44  HA  ARG X 192      30.820  65.090  71.270                       H
+ATOM     45  CB  ARG X 192      30.110  65.970  69.510                       C
+ATOM     46  HB1 ARG X 192      29.100  65.560  69.290                       H
+ATOM     47  HB2 ARG X 192      30.240  66.970  69.050                       H
+ATOM     48  CG  ARG X 192      31.160  65.120  68.690                       C
+ATOM     49  HG1 ARG X 192      31.130  65.510  67.650                       H
+ATOM     50  HG2 ARG X 192      32.170  65.120  69.160                       H
+ATOM     51  CD  ARG X 192      30.940  63.590  68.660                       C
+ATOM     52  HD1 ARG X 192      31.670  62.940  68.140                       H
+ATOM     53  HD2 ARG X 192      31.000  63.240  69.710                       H
+ATOM     54  NE  ARG X 192      29.600  63.190  68.060                       N
+ATOM     55  HE  ARG X 192      28.960  62.850  68.750                       H
+ATOM     56  CZ  ARG X 192      29.180  63.290  66.790                       C
+ATOM     57  NH1 ARG X 192      29.890  63.860  65.820                       N
+ATOM     58 HH11 ARG X 192      30.850  64.100  65.970                       H
+ATOM     59 HH12 ARG X 192      29.420  64.130  64.980                       H
+ATOM     60  NH2 ARG X 192      28.010  62.840  66.600                       N
+ATOM     61 HH21 ARG X 192      27.490  62.630  67.430                       H
+ATOM     62 HH22 ARG X 192      27.560  63.090  65.740                       H
+ATOM     63  O   ARG X 192      32.180  67.060  71.740                       O
+ATOM     64  CA  ARG X 195      33.040  66.030  75.020                       C
+ATOM     65  HA  ARG X 195      33.300  65.770  76.030                       H
+ATOM     66  CB  ARG X 195      32.470  64.860  74.150                       C
+ATOM     67  HB1 ARG X 195      31.450  64.540  74.460                       H
+ATOM     68  HB2 ARG X 195      32.390  65.220  73.090                       H
+ATOM     69  CG  ARG X 195      33.310  63.550  74.270                       C
+ATOM     70  HG1 ARG X 195      32.770  62.920  75.010                       H
+ATOM     71  HG2 ARG X 195      34.310  63.620  74.760                       H
+ATOM     72  CD  ARG X 195      33.560  62.840  72.950                       C
+ATOM     73  HD1 ARG X 195      32.580  62.600  72.480                       H
+ATOM     74  HD2 ARG X 195      34.030  61.840  73.070                       H
+ATOM     75  NE  ARG X 195      34.470  63.680  72.080                       N
+ATOM     76  HE  ARG X 195      34.960  64.470  72.450                       H
+ATOM     77  CZ  ARG X 195      34.400  63.800  70.760                       C
+ATOM     78  NH1 ARG X 195      33.680  62.930  70.060                       N
+ATOM     79 HH11 ARG X 195      33.640  63.090  69.080                       H
+ATOM     80 HH12 ARG X 195      33.670  62.030  70.500                       H
+ATOM     81  NH2 ARG X 195      35.280  64.500  70.110                       N
+ATOM     82 HH21 ARG X 195      36.040  64.850  70.650                       H
+ATOM     83 HH22 ARG X 195      35.380  64.320  69.130                       H
+ATOM     84  C   ARG X 195      34.310  66.520  74.290                       C
+ATOM     85  O   ARG X 195      35.210  65.710  74.030                       O
+ATOM     86  N   LYS X 196      34.500  67.820  74.200                       N
+ATOM     87  HN  LYS X 196      33.700  68.370  74.440                       H
+ATOM     88  CA  LYS X 196      35.800  68.450  73.820                       C
+ATOM     89  HA  LYS X 196      36.440  67.790  73.250                       H
+ATOM     90  CB  LYS X 196      35.690  69.630  72.850                       C
+ATOM     91  HB1 LYS X 196      36.660  70.050  72.490                       H
+ATOM     92  HB2 LYS X 196      35.120  70.440  73.340                       H
+ATOM     93  CG  LYS X 196      34.830  69.230  71.620                       C
+ATOM     94  HG1 LYS X 196      33.850  68.890  72.010                       H
+ATOM     95  HG2 LYS X 196      34.700  70.150  71.020                       H
+ATOM     96  CD  LYS X 196      35.360  68.100  70.730                       C
+ATOM     97  HD1 LYS X 196      36.350  68.530  70.450                       H
+ATOM     98  HD2 LYS X 196      35.530  67.190  71.340                       H
+ATOM     99  CE  LYS X 196      34.610  67.900  69.420                       C
+ATOM    100  HE1 LYS X 196      33.740  67.220  69.540                       H
+ATOM    101  HE2 LYS X 196      34.080  68.830  69.130                       H
+ATOM    102  NZ  LYS X 196      35.490  67.440  68.300                       N
+ATOM    103  HZ1 LYS X 196      34.830  67.020  67.610                       H
+ATOM    104  HZ2 LYS X 196      36.080  66.620  68.530                       H
+ATOM    105  HZ3 LYS X 196      35.980  68.240  67.850                       H
+ATOM    106  C   LYS X 196      36.470  68.890  75.120                       C
+ATOM    107  O   LYS X 196      35.960  69.730  75.850                       O
+ATOM    108  N   PRO X 197      37.530  68.300  75.530                       N
+ATOM    109  CD  PRO X 197      38.080  67.020  74.910                       C
+ATOM    110  HD1 PRO X 197      37.280  66.430  74.410                       H
+ATOM    111  HD2 PRO X 197      38.900  67.330  74.220                       H
+ATOM    112  CA  PRO X 197      37.940  68.430  76.860                       C
+ATOM    113  HA  PRO X 197      37.070  68.290  77.480                       H
+ATOM    114  CB  PRO X 197      38.890  67.280  77.130                       C
+ATOM    115  HB1 PRO X 197      38.850  67.000  78.200                       H
+ATOM    116  HB2 PRO X 197      39.940  67.570  76.920                       H
+ATOM    117  CG  PRO X 197      38.460  66.270  76.100                       C
+ATOM    118  HG1 PRO X 197      37.580  65.660  76.390                       H
+ATOM    119  HG2 PRO X 197      39.240  65.560  75.780                       H
+ATOM    120  O   PRO X 197      38.750  69.930  78.440                       O
+ATOM    121  CA  ARG X 249      46.350  69.390  70.780                       C
+ATOM    122  HA  ARG X 249      46.570  70.120  70.020                       H
+ATOM    123  CB  ARG X 249      44.890  69.170  70.480                       C
+ATOM    124  HB1 ARG X 249      44.230  69.420  71.340                       H
+ATOM    125  HB2 ARG X 249      44.620  69.890  69.680                       H
+ATOM    126  CG  ARG X 249      44.480  67.850  69.810                       C
+ATOM    127  HG1 ARG X 249      45.160  67.560  68.980                       H
+ATOM    128  HG2 ARG X 249      43.540  68.130  69.280                       H
+ATOM    129  CD  ARG X 249      44.360  66.720  70.790                       C
+ATOM    130  HD1 ARG X 249      43.680  66.960  71.640                       H
+ATOM    131  HD2 ARG X 249      45.370  66.490  71.180                       H
+ATOM    132  NE  ARG X 249      43.900  65.470  70.120                       N
+ATOM    133  HE  ARG X 249      44.480  64.950  69.490                       H
+ATOM    134  CZ  ARG X 249      42.720  64.930  70.190                       C
+ATOM    135  NH1 ARG X 249      41.710  65.440  70.820                       N
+ATOM    136 HH11 ARG X 249      41.630  66.430  70.930                       H
+ATOM    137 HH12 ARG X 249      40.860  65.060  70.460                       H
+ATOM    138  NH2 ARG X 249      42.430  63.740  69.660                       N
+ATOM    139 HH21 ARG X 249      43.010  63.290  68.980                       H
+ATOM    140 HH22 ARG X 249      41.520  63.340  69.800                       H
+ATOM    141  O   ARG X 249      47.360  67.250  70.300                       O
+HETATM  142  C12 SAP X1042      38.790  72.080  70.100                       C
+HETATM  143  H2  SAP X1042      39.130  73.130  69.980                       H
+HETATM  144  O2  SAP X1042      38.850  72.030  71.500                       O
+HETATM  145  HO2 SAP X1042      38.560  71.180  71.850                       H
+HETATM  146  C13 SAP X1042      37.390  72.020  69.560                       C
+HETATM  147  H3  SAP X1042      36.770  72.590  70.280                       H
+HETATM  148  O3  SAP X1042      37.020  70.730  69.320                       O
+HETATM  149  HO3 SAP X1042      37.820  70.210  69.170                       H
+HETATM  150  C14 SAP X1042      37.400  72.780  68.210                       C
+HETATM  151  H4  SAP X1042      37.810  73.790  68.440                       H
+HETATM  152  O4  SAP X1042      36.060  72.850  67.690                       O
+HETATM  153  P4  SAP X1042      35.470  74.230  67.060                       P
+HETATM  154 OP42 SAP X1042      36.260  73.960  65.770                       O
+HETATM  155 HP42 SAP X1042      36.550  73.040  65.830                       H
+HETATM  156 OP43 SAP X1042      33.920  74.070  66.860                       O
+HETATM  157 OP44 SAP X1042      35.950  75.490  67.740                       O
+HETATM  158  C15 SAP X1042      38.340  72.080  67.120                       C
+HETATM  159  H5  SAP X1042      39.030  72.890  66.810                       H
+HETATM  160  O5  SAP X1042      37.690  71.620  65.940                       O
+HETATM  161  P5  SAP X1042      38.210  71.130  64.520                       P
+HETATM  162 OP52 SAP X1042      39.240  72.060  63.950                       O
+HETATM  163 OP53 SAP X1042      38.780  69.730  64.710                       O
+HETATM  164 OP54 SAP X1042      36.960  71.150  63.620                       O
+HETATM  165  C16 SAP X1042      39.290  71.070  67.780                       C
+HETATM  166  H6  SAP X1042      38.770  70.090  67.730                       H
+HETATM  167  O6  SAP X1042      40.420  70.800  66.950                       O
+HETATM  168  HO6 SAP X1042      40.050  70.400  66.160                       H
+HETATM  169  C11 SAP X1042      39.730  71.160  69.220                       C
+HETATM  170  H1  SAP X1042      40.690  71.710  69.190                       H
+HETATM  171  P   SAP X1042      40.830  69.420  70.940                       P
+HETATM  172  O13 SAP X1042      41.290  68.020  70.730                       O
+HETATM  173  O14 SAP X1042      41.920  70.420  70.900                       O
+HETATM  174  O12 SAP X1042      39.750  69.790  69.770                       O
+HETATM  175  O11 SAP X1042      40.140  69.460  72.340                       O
+HETATM  176  C1  SAP X1042      40.790  69.930  73.540                       C
+HETATM  177  HA  SAP X1042      41.360  70.870  73.380                       H
+HETATM  178  HB  SAP X1042      39.980  70.290  74.220                       H
+HETATM  179  C2  SAP X1042      41.560  68.810  74.330                       C
+HETATM  180  HS  SAP X1042      41.100  67.820  74.150                       H
+HETATM  181  O21 SAP X1042      41.490  68.900  75.760                       O
+HETATM  182  C21 SAP X1042      42.110  69.830  76.420                       C
+HETATM  183  O22 SAP X1042      42.670  70.780  75.910                       O
+HETATM  184  C22 SAP X1042      42.220  69.340  77.810                       C
+HETATM  185  H2R SAP X1042      43.080  68.640  77.870                       H
+HETATM  186  H2S SAP X1042      41.270  68.850  78.110                       H
+HETATM  187  C3  SAP X1042      42.990  68.930  73.780                       C
+HETATM  188  HX  SAP X1042      42.890  68.580  72.740                       H
+HETATM  189  HY  SAP X1042      43.370  69.970  73.800                       H
+HETATM  190  O31 SAP X1042      44.030  68.210  74.530                       O
+HETATM  191  C31 SAP X1042      43.970  66.810  74.460                       C
+HETATM  192  O32 SAP X1042      43.180  66.190  73.790                       O
+HETATM  193  C32 SAP X1042      45.010  66.200  75.330                       C
+HETATM  194  H2X SAP X1042      45.980  66.730  75.200                       H
+HETATM  195  H2Y SAP X1042      45.140  65.170  74.920                       H
+HETATM  196  C23 SAP X1042      42.480  70.470  78.830                       C
+HETATM  197  H3R SAP X1042      41.890  71.400  78.670                       H
+HETATM  198  H3S SAP X1042      43.520  70.830  78.690                       H
+HETATM  199  C24 SAP X1042      42.250  70.030  80.240                       C
+HETATM  200  H4R SAP X1042      42.560  70.850  80.920                       H
+HETATM  201  H4S SAP X1042      41.170  70.070  80.490                       H
+HETATM  202  C25 SAP X1042      42.830  68.690  80.620                       C
+HETATM  203  H5R SAP X1042      42.770  67.860  79.900                       H
+HETATM  204  C26 SAP X1042      43.630  68.430  81.750                       C
+HETATM  205  H6R SAP X1042      44.010  67.430  82.030                       H
+HETATM  206  C27 SAP X1042      43.940  69.540  82.760                       C
+HETATM  207  H7R SAP X1042      44.310  70.410  82.170                       H
+HETATM  208  H7S SAP X1042      43.070  69.980  83.300                       H
+HETATM  209  C28 SAP X1042      45.060  69.170  83.660                       C
+HETATM  210  H8R SAP X1042      44.940  68.230  84.210                       H
+HETATM  211  C29 SAP X1042      46.180  69.990  83.860                       C
+HETATM  212  H9R SAP X1042      46.340  70.880  83.230                       H
+HETATM  213 C210 SAP X1042      47.360  69.810  84.780                       C
+HETATM  214 H10R SAP X1042      46.970  70.330  85.680                       H
+HETATM  215 H10S SAP X1042      48.240  70.370  84.400                       H
+HETATM  216 C211 SAP X1042      47.860  68.400  85.020                       C
+HETATM  217 H11R SAP X1042      48.210  68.310  86.060                       H
+HETATM  218 C212 SAP X1042      47.790  67.310  84.200                       C
+HETATM  219 H12R SAP X1042      47.260  67.390  83.240                       H
+HETATM  220 C213 SAP X1042      48.410  65.940  84.490                       C
+HETATM  221 H13R SAP X1042      48.630  65.480  83.500                       H
+HETATM  222 H13S SAP X1042      49.370  66.080  85.030                       H
+HETATM  223 C214 SAP X1042      47.560  65.040  85.230                       C
+HETATM  224 H14R SAP X1042      46.610  64.830  84.710                       H
+HETATM  225 C215 SAP X1042      47.850  64.580  86.500                       C
+HETATM  226 H15R SAP X1042      48.830  64.750  86.970                       H
+HETATM  227 C216 SAP X1042      47.070  63.410  87.030                       C
+HETATM  228 H16R SAP X1042      46.180  63.110  86.440                       H
+HETATM  229 H16S SAP X1042      47.830  62.600  87.070                       H
+HETATM  230 C217 SAP X1042      46.440  63.820  88.420                       C
+HETATM  231 H17R SAP X1042      46.020  62.900  88.880                       H
+HETATM  232 H17S SAP X1042      45.690  64.610  88.190                       H
+HETATM  233 C218 SAP X1042      47.420  64.370  89.460                       C
+HETATM  234 H18R SAP X1042      48.070  65.190  89.080                       H
+HETATM  235 H18S SAP X1042      46.910  64.560  90.440                       H
+HETATM  236 C219 SAP X1042      48.420  63.200  89.810                       C
+HETATM  237 H19R SAP X1042      47.770  62.310  89.970                       H
+HETATM  238 H19S SAP X1042      49.080  62.930  88.950                       H
+HETATM  239 C220 SAP X1042      49.220  63.490  91.050                       C
+HETATM  240 H20R SAP X1042      48.620  63.930  91.870                       H
+HETATM  241 H20S SAP X1042      50.050  64.150  90.710                       H
+HETATM  242 H20T SAP X1042      49.610  62.530  91.440                       H
+HETATM  243  C33 SAP X1042      44.530  66.160  76.830                       C
+HETATM  244  H3X SAP X1042      44.080  67.170  77.000                       H
+HETATM  245  H3Y SAP X1042      43.730  65.390  76.820                       H
+HETATM  246  C34 SAP X1042      45.680  65.900  77.770                       C
+HETATM  247  H4X SAP X1042      46.520  66.580  77.520                       H
+HETATM  248  H4Y SAP X1042      46.170  64.910  77.630                       H
+HETATM  249  C35 SAP X1042      45.220  65.960  79.230                       C
+HETATM  250  H5X SAP X1042      44.910  67.000  79.480                       H
+HETATM  251  H5Y SAP X1042      44.480  65.150  79.430                       H
+HETATM  252  C36 SAP X1042      46.450  65.620  80.110                       C
+HETATM  253  H6X SAP X1042      47.290  66.350  80.040                       H
+HETATM  254  H6Y SAP X1042      46.130  65.810  81.160                       H
+HETATM  255  C37 SAP X1042      46.930  64.190  80.050                       C
+HETATM  256  H7X SAP X1042      46.070  63.520  80.290                       H
+HETATM  257  H7Y SAP X1042      47.280  63.930  79.030                       H
+HETATM  258  C38 SAP X1042      48.030  63.800  81.070                       C
+HETATM  259  H8X SAP X1042      47.400  63.700  81.980                       H
+HETATM  260  H8Y SAP X1042      48.760  64.630  81.210                       H
+HETATM  261  C39 SAP X1042      48.910  62.540  80.840                       C
+HETATM  262  H9X SAP X1042      48.320  61.650  80.520                       H
+HETATM  263  H9Y SAP X1042      49.380  62.400  81.840                       H
+HETATM  264 C310 SAP X1042      50.120  62.760  79.930                       C
+HETATM  265 H10X SAP X1042      49.550  62.900  78.980                       H
+HETATM  266 H10Y SAP X1042      50.650  61.780  79.870                       H
+HETATM  267 C311 SAP X1042      51.050  63.980  80.230                       C
+HETATM  268 H11X SAP X1042      50.520  64.840  79.770                       H
+HETATM  269 H11Y SAP X1042      51.120  64.210  81.310                       H
+HETATM  270 C312 SAP X1042      52.520  63.890  79.610                       C
+HETATM  271 H12X SAP X1042      52.520  63.240  78.710                       H
+HETATM  272 H12Y SAP X1042      52.920  64.870  79.300                       H
+HETATM  273 C313 SAP X1042      53.600  63.230  80.550                       C
+HETATM  274 H13X SAP X1042      53.760  63.840  81.470                       H
+HETATM  275 H13Y SAP X1042      54.590  63.340  80.050                       H
+HETATM  276 C314 SAP X1042      53.190  61.810  81.010                       C
+HETATM  277 H14X SAP X1042      52.200  61.880  81.500                       H
+HETATM  278 H14Y SAP X1042      53.000  61.280  80.050                       H
+HETATM  279 C315 SAP X1042      54.200  61.050  81.920                       C
+HETATM  280 H15X SAP X1042      55.270  61.270  81.720                       H
+HETATM  281 H15Y SAP X1042      53.990  61.560  82.890                       H
+HETATM  282 C316 SAP X1042      53.830  59.520  81.930                       C
+HETATM  283 H16X SAP X1042      54.540  58.890  82.500                       H
+HETATM  284 H16Y SAP X1042      53.980  59.200  80.880                       H
+HETATM  285 C317 SAP X1042      52.420  59.250  82.310                       C
+HETATM  286 H17X SAP X1042      51.600  59.830  81.820                       H
+HETATM  287 H17Y SAP X1042      52.260  59.570  83.370                       H
+HETATM  288 C318 SAP X1042      51.920  57.820  82.010                       C
+HETATM  289 H18X SAP X1042      52.070  57.180  82.910                       H
+HETATM  290 H18Y SAP X1042      50.860  57.730  81.690                       H
+HETATM  291 H18Z SAP X1042      52.660  57.410  81.290                       H
+TER     292      SAP X1042
+HETATM  293  C           0      37.220  81.710  65.130                       C
+HETATM  294  C           0      37.819  82.940  64.825                       C
+HETATM  295  H           0      38.065  82.968  63.784                       H
+HETATM  296  H           0      37.138  83.734  65.052                       H
+HETATM  297  H           0      38.710  83.056  65.406                       H
+HETATM  298  N           0      36.932  80.879  67.495                       N
+HETATM  299  H           0      37.686  81.114  68.109                       H
+HETATM  300  H           0      36.286  81.642  67.454                       H
+HETATM  301  C           0      27.860  71.850  61.870                       C
+HETATM  302  C           0      27.610  70.928  60.845                       C
+HETATM  303  H           0      28.024  69.978  61.111                       H
+HETATM  304  H           0      26.555  70.830  60.702                       H
+HETATM  305  H           0      28.062  71.272  59.938                       H
+HETATM  306  N           0      27.990  74.120  62.760                       N
+HETATM  307  H           0      28.081  75.021  62.336                       H
+HETATM  308  H           0      27.022  73.878  62.826                       H
+HETATM  309  C           0      31.000  67.170  71.430                       C
+HETATM  310  C           0      30.661  68.523  71.567                       C
+HETATM  311  H           0      30.643  68.783  72.604                       H
+HETATM  312  H           0      31.386  69.125  71.061                       H
+HETATM  313  H           0      29.695  68.693  71.139                       H
+HETATM  314  N           0      28.862  66.010  71.599                       N
+HETATM  315  H           0      28.656  65.150  72.067                       H
+HETATM  316  H           0      28.803  66.766  72.251                       H
+HETATM  317  N           0      32.027  67.094  74.969                       N
+HETATM  318  H           0      31.189  66.737  74.557                       H
+HETATM  319  H           0      31.832  67.413  75.897                       H
+HETATM  320  C           0      38.490  69.790  77.270                       C
+HETATM  321  C           0      38.811  70.985  76.612                       C
+HETATM  322  H           0      39.113  70.769  75.608                       H
+HETATM  323  H           0      37.953  71.625  76.596                       H
+HETATM  324  H           0      39.611  71.473  77.128                       H
+HETATM  325  C           0      47.470  68.470  70.390                       C
+HETATM  326  C           0      48.814  68.710  70.073                       C
+HETATM  327  H           0      49.437  68.350  70.866                       H
+HETATM  328  H           0      49.063  68.201  69.166                       H
+HETATM  329  H           0      48.969  69.761  69.947                       H
+HETATM  330  N           0      46.625  70.193  71.980                       N
+HETATM  331  H           0      47.429  70.765  71.821                       H
+HETATM  332  H           0      45.836  70.775  72.179                       H
+END
+CONECT    1  293  298
+CONECT   21  293
+CONECT   22  301  306
+CONECT   42  301
+CONECT   43  309  314
+CONECT   63  309
+CONECT   64  317
+CONECT  112  320
+CONECT  120  320
+CONECT  121  325  330
+CONECT  141  325
+CONECT  142  146  169  143  144
+CONECT  143  142
+CONECT  144  142  145
+CONECT  145  144
+CONECT  146  142  148  150  147
+CONECT  147  146
+CONECT  148  146  149
+CONECT  149  148
+CONECT  150  146  152  158  151
+CONECT  151  150
+CONECT  152  150  153
+CONECT  153  152  156  157  154
+CONECT  154  153  155
+CONECT  155  154
+CONECT  156  153
+CONECT  157  153
+CONECT  158  150  159  160  165
+CONECT  159  158
+CONECT  160  158  161
+CONECT  161  160  164  162  163
+CONECT  162  161
+CONECT  163  161
+CONECT  164  161
+CONECT  165  158  166  167  169
+CONECT  166  165
+CONECT  167  165  168
+CONECT  168  167
+CONECT  169  142  165  170  174
+CONECT  170  169
+CONECT  171  174  172  173  175
+CONECT  172  171
+CONECT  173  171
+CONECT  174  169  171
+CONECT  175  171  176
+CONECT  176  175  177  178  179
+CONECT  177  176
+CONECT  178  176
+CONECT  179  176  180  181  187
+CONECT  180  179
+CONECT  181  179  182
+CONECT  182  181  183  184
+CONECT  183  182
+CONECT  184  182  186  185  196
+CONECT  185  184
+CONECT  186  184
+CONECT  187  179  188  189  190
+CONECT  188  187
+CONECT  189  187
+CONECT  190  187  191
+CONECT  191  190  192  193
+CONECT  192  191
+CONECT  193  191  194  195  243
+CONECT  194  193
+CONECT  195  193
+CONECT  196  184  197  198  199
+CONECT  197  196
+CONECT  198  196
+CONECT  199  196  201  200  202
+CONECT  200  199
+CONECT  201  199
+CONECT  202  199  203  204
+CONECT  203  202
+CONECT  204  202  205  206
+CONECT  205  204
+CONECT  206  204  207  208  209
+CONECT  207  206
+CONECT  208  206
+CONECT  209  206  210  211
+CONECT  210  209
+CONECT  211  209  212  213
+CONECT  212  211
+CONECT  213  211  214  216  215
+CONECT  214  213
+CONECT  215  213
+CONECT  216  213  218  217
+CONECT  217  216
+CONECT  218  216  219  220
+CONECT  219  218
+CONECT  220  218  223  221  222
+CONECT  221  220
+CONECT  222  220
+CONECT  223  220  224  225
+CONECT  224  223
+CONECT  225  223  227  226
+CONECT  226  225
+CONECT  227  225  228  229  230
+CONECT  228  227
+CONECT  229  227
+CONECT  230  227  231  232  233
+CONECT  231  230
+CONECT  232  230
+CONECT  233  230  234  235  236
+CONECT  234  233
+CONECT  235  233
+CONECT  236  233  237  238  239
+CONECT  237  236
+CONECT  238  236
+CONECT  239  236  240  241  242
+CONECT  240  239
+CONECT  241  239
+CONECT  242  239
+CONECT  243  193  244  245  246
+CONECT  244  243
+CONECT  245  243
+CONECT  246  243  247  248  249
+CONECT  247  246
+CONECT  248  246
+CONECT  249  246  250  251  252
+CONECT  250  249
+CONECT  251  249
+CONECT  252  249  253  254  255
+CONECT  253  252
+CONECT  254  252
+CONECT  255  252  256  257  258
+CONECT  256  255
+CONECT  257  255
+CONECT  258  255  259  260  261
+CONECT  259  258
+CONECT  260  258
+CONECT  261  258  262  263  264
+CONECT  262  261
+CONECT  263  261
+CONECT  264  261  265  266  267
+CONECT  265  264
+CONECT  266  264
+CONECT  267  264  268  269  270
+CONECT  268  267
+CONECT  269  267
+CONECT  270  267  271  272  273
+CONECT  271  270
+CONECT  272  270
+CONECT  273  270  274  276  275
+CONECT  274  273
+CONECT  275  273
+CONECT  276  273  277  278  279
+CONECT  277  276
+CONECT  278  276
+CONECT  279  276  282  281  280
+CONECT  280  279
+CONECT  281  279
+CONECT  282  279  284  285  283
+CONECT  283  282
+CONECT  284  282
+CONECT  285  282  286  287  288
+CONECT  286  285
+CONECT  287  285
+CONECT  288  285  290  291  289
+CONECT  289  288
+CONECT  290  288
+CONECT  291  288
+CONECT  293    1   21  294
+CONECT  294  295  296  297  293
+CONECT  295  294
+CONECT  296  294
+CONECT  297  294
+CONECT  298  299  300    1
+CONECT  299  298
+CONECT  300  298
+CONECT  301   22   42  302
+CONECT  302  303  304  305  301
+CONECT  303  302
+CONECT  304  302
+CONECT  305  302
+CONECT  306  307  308   22
+CONECT  307  306
+CONECT  308  306
+CONECT  309   43   63  310
+CONECT  310  311  312  313  309
+CONECT  311  310
+CONECT  312  310
+CONECT  313  310
+CONECT  314  315  316   43
+CONECT  315  314
+CONECT  316  314
+CONECT  317  318  319   64
+CONECT  318  317
+CONECT  319  317
+CONECT  320  112  120  321
+CONECT  321  322  323  324  320
+CONECT  322  321
+CONECT  323  321
+CONECT  324  321
+CONECT  325  121  141  326
+CONECT  326  327  328  329  325
+CONECT  327  326
+CONECT  328  326
+CONECT  329  326
+CONECT  330  331  332  121
+CONECT  331  330
+CONECT  332  330

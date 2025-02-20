@@ -1,0 +1,4 @@
+CP: 351, Density of all electrons: 4.6302359640E-02  Connected atoms:   156(O )   --   103(H )
+CP: 337, Density of all electrons: 3.6593256560E-02  Connected atoms:    17(H )   --   157(O )
+CP: 335, Density of all electrons: 3.3199673940E-02  Connected atoms:   164(O )   --    40(H )
+CP: 334, Density of all electrons: 3.1163185890E-02  Connected atoms:   162(O )   --    16(H )
