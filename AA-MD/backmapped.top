@@ -1,0 +1,68 @@
+;
+;	File 'topol.top' was generated
+;	By user: mpudgx202301 (1000)
+;	On host: mpudgx202301-DGX-Station-A100-920-23487-2531-000
+;	At date: Mon Apr 22 23:12:50 2024
+;
+;	This is a standalone topology file
+;
+;	Created by:
+;	              :-) GROMACS - gmx pdb2gmx, 2021.4-plumed-2.8.0 (-:
+;	
+;	Executable:   /home/mpudgx202301/software/gromacs-2021.4/gromacs/bin/gmx_mpi
+;	Data prefix:  /home/mpudgx202301/software/gromacs-2021.4/gromacs
+;	Working dir:  /raid/lingling/analysis/2-cg_allatom/6v00_pip2_kcnq_lower/BSid1
+;	Command line:
+;	  gmx_mpi pdb2gmx -f 6v00_kcnq.pdb -o 6v00_kcnq_H.pdb -ignh
+;	Force field was read from current directory or a relative path - path added.
+;
+
+; Include forcefield parameters
+#include "./charmm36-jul2022.ff/forcefield.itp"
+#include "./aa_POP5_SAPI24.itp"
+#include "./POPC.itp"
+#include "./ions.itp"
+#include "./tips3p.itp"
+
+; Include chain topologies
+#include "topol_Protein_chain_A.itp"
+#include "topol_Protein_chain_D.itp"
+#include "topol_Protein_chain_G.itp"
+#include "topol_Protein_chain_J.itp"
+#include "topol_Protein_chain_M.itp"
+#include "topol_Protein_chain_N.itp"
+#include "topol_Protein_chain_O.itp"
+#include "topol_Protein_chain_P.itp"
+
+
+#ifdef POSRES_WATER
+; Position restraint for each water oxygen
+[ position_restraints ]
+;  i funct       fcx        fcy        fcz
+   1    1       1000       1000       1000
+#endif
+
+; Include topology for ions
+#include "./charmm36-jul2022.ff/ions.itp"
+
+[ system ]
+; Name
+Protein
+
+[ molecules ]
+; Compound        #mols
+Protein_chain_A     1
+Protein_chain_D     1
+Protein_chain_G     1
+Protein_chain_J     1
+Protein_chain_M     1
+Protein_chain_N     1
+Protein_chain_O     1
+Protein_chain_P     1
+POPC              236
+POP5               12
+POPC              216
+POP5               11
+SOL 54868
+NA   180
+CL   116
