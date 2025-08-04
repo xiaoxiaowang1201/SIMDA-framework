@@ -1,0 +1,21 @@
+POSE ID : 0
+TRAJ FN : /data/lingling/analysis_new_6v0x_pip2/LipIDens/6v0x_pip2_analysis/6v01_pip2/6v01_kcnq_kcne3_cam/step7_low.xtc
+PROT ID : 0
+LIPID ID: 2105
+TIME    : 3700000.000 ps
+
+
+POSE ID : 1
+TRAJ FN : /data/lingling/analysis_new_6v0x_pip2/LipIDens/6v0x_pip2_analysis/6v01_pip2/6v01_kcnq_kcne3_cam/step7_low.xtc
+PROT ID : 0
+LIPID ID: 2109
+TIME    : 51600000.000 ps
+
+
+POSE ID : 2
+TRAJ FN : /data/lingling/analysis_new_6v0x_pip2/LipIDens/6v0x_pip2_analysis/6v01_pip2/6v01_kcnq_kcne3_cam/step7_low.xtc
+PROT ID : 0
+LIPID ID: 2105
+TIME    : 4050000.000 ps
+
+
